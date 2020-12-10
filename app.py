@@ -55,14 +55,7 @@ if slct == "Data Visualization":
 
     st.write('')
     st.write('')
-    st.header("Covid 19 Timeline")
-    st.markdown("""<html>
-                    <div class="flourish-embed flourish-cards" data-url="https://flo.uri.sh/visualisation/1786965/embed">
-                    <script src="https://public.flourish.studio/resources/embed.js"></script>
-                    </div>
-                    <iframe src='https://flo.uri.sh/visualisation/1786965/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:300px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'></div>
-                    </html>
-                    """,unsafe_allow_html=True)
+    #st.header("Covid 19 Timeline")
     
     ########patient.csv
    
